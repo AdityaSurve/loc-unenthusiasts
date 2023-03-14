@@ -78,8 +78,8 @@ function Navbar({newid,setnewid}) {
             style={{ color: "#FFFFFF", width: "30px", height: "30px" }}
           />
           <div className=" text-white  text-2xl font-ibm ">
-            <span className=" font-bold">PHOTO</span>
-            <span className=" font-light ">graphy</span>
+            <span className=" font-bold">LENS</span>
+            <span className=" font-light ">life</span>
           </div>
             
         </div>
