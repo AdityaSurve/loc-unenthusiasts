@@ -182,10 +182,11 @@ export default function Home() {
           Bringing your vision to life,
           <br /> one shot at a time
         </span>
-
+        <Link to="/signup">
         <button className="bg-[#61876E] hover:bg-[#AA5656] border-2  rounded-2xl text-white font-jost py-2 px-4 mt-6 w-[300px] shadow-black shadow-lg hover:scale-110 transition duration-300 ease-in-out">
-          <Link to="/signup">GET STARTED</Link>
+          GET STARTED
         </button>
+        </Link>
       </div>
     </div>
   );
